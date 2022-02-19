@@ -19,3 +19,4 @@ npm run start:shell
 ```
 npm run start:profile
 ```
+- Navigate from shell to profile 

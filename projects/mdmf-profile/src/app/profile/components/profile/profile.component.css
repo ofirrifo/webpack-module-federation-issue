@@ -1,7 +1,5 @@
-.container {
-  padding: 3px;
-}
-
-h2 {
-  color: cadetblue;
+img{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
 }
