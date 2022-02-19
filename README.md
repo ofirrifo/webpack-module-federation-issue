@@ -19,4 +19,4 @@ npm run start:shell
 ```
 npm run start:profile
 ```
-- Navigate from shell to profile 
+- Navigate from shell to profile we get broken image but in the remote it do display
